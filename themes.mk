@@ -510,3 +510,23 @@ PRODUCT_PACKAGES += \
     BrightnessSliderLineOverlay \
     BrightnessSliderLightyOverlay  
 
+# Progress Bar Themes
+PRODUCT_PACKAGES += \
+    PGB_BlockyThumb \
+    PGB_MinimalThumb \
+    PGB_OutlineThumb \
+    PGB_Shishu
+
+# Notification Themes
+PRODUCT_PACKAGES += \
+    NotifCyberPunk \
+    NotifDuoline \
+    NotifIOS \
+    NotifLayers
+
+# Power Menu Themes
+PRODUCT_PACKAGES += \
+    PowerCyberPunk \
+    PowerDuoline \
+    PowerIOS \
+    PowerLayers
